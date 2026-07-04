@@ -2,7 +2,7 @@ import datetime
 import os
 
 MIN_CONTRIB = 1
-TEXT = "ASELAB"
+TEXT = "ASELA"
 FIRST_CONTRIB_DATE = datetime.datetime(year=2026, month=1, day=1, hour=1, minute=1)
 
 A = [
